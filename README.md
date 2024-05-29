@@ -29,7 +29,7 @@ A simple GUI-based chatbot application built with PyQt6, leveraging OpenAI's GPT
 
 Run the application:
 ```sh
-python main.py
+main.py
 ```
 
 ## File Overview
